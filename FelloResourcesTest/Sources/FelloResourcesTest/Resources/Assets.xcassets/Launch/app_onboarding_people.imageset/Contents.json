@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "app_onboarding_splash1.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
